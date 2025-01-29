@@ -1,5 +1,4 @@
 # 💫 About Me:
-🚀 About Me
 Passionate MERN Stack Developer | SDE Intern @ Support Genie (Former) | Currently learning Next.js | Open to collaboration in web development
 
 📧 Email: tusharverma0715@gmail.com
