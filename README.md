@@ -1,5 +1,8 @@
 # 💫 About Me:
 👋 I'm a passionate MERN Stack Developer who loves crafting seamless web applications. I have hands-on experience with React.js, Node.js, Express.js, and MongoDB, and I'm currently diving deeper into Next.js to level up my skills.<br><br>💼 Previously, I worked as an SDE Intern at Support Genie, where I gained valuable industry experience.<br>💡 I'm always open to collaborating on web development projects and learning new technologies along the way.
+Looking to collaborate or just want to chat about tech? Feel free to reach out!
+
+📧 Email: tusharverma0715@gmail.com
 
 
 ## 🌐 Socials:
